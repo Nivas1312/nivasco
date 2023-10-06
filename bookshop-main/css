@@ -1,0 +1,18 @@
+bookshop-web-app/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── com/
+│   │   │   │   ├── bookshop/
+│   │   │   │   │   ├── Book.java
+│   │   │   │   │   ├── BookDAO.java
+│   │   │   │   │   └── BookstoreServlet.java
+│   │   ├── webapp/
+│   │   │   ├── WEB-INF/
+│   │   │   │   ├── web.xml
+│   │   │   │   └── jsp/
+│   │   │   │       ├── index.jsp
+│   │   │   │       ├── booklist.jsp
+│   │   │   └── resources/
+│   ├── test/
+└── pom.xml

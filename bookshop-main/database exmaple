@@ -1,0 +1,6 @@
+INSERT INTO books (title, author, publication_year, price, in_stock) VALUES
+    ('The dhoni', 'kohil', 2021, 9.99, true),
+    ('To Kill ', ' Loe', 1960, 12.50, true),
+    ('1984', 'George ', 1949, 8.75, true),
+    ('Pride of cinima', 'Jane', 1813, 7.25, false),
+    ('The rolls', 'J.D', 1951, 10.99, true);
